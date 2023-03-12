@@ -16,6 +16,7 @@ const lightTheme = createTheme({
     fourth:{
       main:"#263238"//negro
     }
+    
   },
 });
 
